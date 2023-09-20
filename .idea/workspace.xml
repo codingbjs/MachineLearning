@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a3c8eec-1e8d-481a-8e9e-f47eff5043df" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1a3c8eec-1e8d-481a-8e9e-f47eff5043df" name="변경" comment="Gradient_Descent" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +148,19 @@
       <option name="presentableId" value="Default" />
       <updated>1695184863244</updated>
     </task>
+    <task id="LOCAL-00001" summary="Gradient_Descent">
+      <option name="closed" value="true" />
+      <created>1695185289505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695185289505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gradient_Descent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gradient_Descent" />
   </component>
 </project>
