@@ -8,3 +8,4 @@
 
 ## 3. Regression_Analysis
 - Regression_Analysis.ipynb
+- Encoding.ipynb
