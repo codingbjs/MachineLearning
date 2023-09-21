@@ -5,3 +5,6 @@
 
 ## 2. Model_Validation
 - Model_Validation.ipynb
+
+## 3. Regression_Analysis
+- Regression_Analysis.ipynb
