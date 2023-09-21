@@ -9,3 +9,4 @@
 ## 3. Regression_Analysis
 - Regression_Analysis.ipynb
 - Encoding.ipynb
+- Multivariate_Regression.ipynb
