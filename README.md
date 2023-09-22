@@ -10,3 +10,4 @@
 - Regression_Analysis.ipynb
 - Encoding.ipynb
 - Multivariate_Regression.ipynb
+- Scaling.ipynb
