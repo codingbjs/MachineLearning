@@ -14,3 +14,4 @@
 
 ## 4. Logistic_Regression
 - Sigmoid.ipynb
+- Binary_Classification.ipynb
