@@ -15,3 +15,4 @@
 ## 4. Logistic_Regression
 - Sigmoid.ipynb
 - Binary_Classification.ipynb
+- Cross_Entropy_Error.ipynb
