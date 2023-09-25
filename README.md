@@ -11,3 +11,6 @@
 - Encoding.ipynb
 - Multivariate_Regression.ipynb
 - Scaling.ipynb
+
+## 4. Logistic_Regression
+- Sigmoid.ipynb
