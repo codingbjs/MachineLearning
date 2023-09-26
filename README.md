@@ -19,3 +19,6 @@
 
 ## 5. Decision_Tree
 - Decision_Tree.ipynb
+
+## 6. Random_Forest
+- Random_Forest.ipynb
