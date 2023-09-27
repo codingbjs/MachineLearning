@@ -22,3 +22,6 @@
 
 ## 6. Random_Forest
 - Random_Forest.ipynb
+
+## 7. K_means_Clustring
+- K_means_Clustring.ipynb
